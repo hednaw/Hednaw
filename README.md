@@ -1,3 +1,6 @@
-# It's me Hednaw 😉
-## I'm a noob programmer 😒
+# 𝕀𝕥'𝕤 𝕞𝕖 𝕙𝕖𝕕𝕟𝕒𝕨 😉
+I'm a ɴᴏᴏʙ programmer 😒
 
+**Skills**:
+..* Javascript
+..* Python
