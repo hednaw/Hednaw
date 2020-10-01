@@ -2,5 +2,5 @@
 I'm a ɴᴏᴏʙ programmer 😒
 
 **Skills**:
-..* Javascript
-..* Python
+  * Javascript
+  * Python
