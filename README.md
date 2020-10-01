@@ -1,1 +1,3 @@
-# It's me Hednaw
+# It's me Hednaw 😉
+## I'm a noob programmer 😒
+
