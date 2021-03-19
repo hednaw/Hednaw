@@ -1,6 +1,8 @@
 # 𝐌𝐘 𝐑𝐄𝐀𝐃𝐌𝐄
 
 <h3 align="center"> Hello, I'm hednaw. I'm trying to learn Programming and maybe get a job in the industry later.</h3>
+<h3 align="center" style="bold"> What I'm currently working on:</h3>
+<ul align="center"> Learning ReactJS <img src="img/react-original"></img> </ul>
 
 <p align="center"><img src="img/ein_be_cute.jpg"></img></p>
 
