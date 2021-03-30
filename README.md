@@ -7,7 +7,7 @@
 - Learning React <img src="img/react-original.svg" width="15">
 - Made my first react app - [Catoapo](https://hednaw.github.io/Catoapo)
 
-<p align="center"><img src="img/ein_be_cute.jpg"></img></p>
+<p align="center"><kbd><img src="img/ein_be_cute.jpg"></img></kbd></p>
 
 **Favorite tools:** <p align="center"> <img src="img/github-original.svg" alt="github" width="40" height="40"/> <img src="img/sublimetext-original.svg" alt="sublime text" width="40" height="40"/> <img src="img/visual-studio-code-original.svg" width="40"> </p>
 
